@@ -1,11 +1,11 @@
-# Financiamento
+# Financiamento - Atividade SENAI estudando React
 
 Calcule as parcelas do seu financiamento de forma rápida e precisa! Basta informar o valor do bem, a entrada e o prazo para saber exatamente quanto você irá pagar por mês.
 
 ## Funcionalidades
-- Entrada do valor total, entrada e número de parcelas
-- Cálculo da parcela mensal com juros fixos
-- Exibição do custo final do financiamento
+- Entrada dos dados: Valor total, entrada e número de parcelas.
+- Cálculo: Parcela mensal com juros fixos.
+- Resultado: Custo final do financiamento.
 
 ## Tecnologias Usadas
 - React
